@@ -33,6 +33,7 @@ ____
 
 ##### *Education:* 
 RS School JavaScript/Front-end 2021Q3
+
 ___
 
 ##### English:
