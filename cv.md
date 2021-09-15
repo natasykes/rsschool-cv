@@ -9,10 +9,11 @@ ___
 * #### Discord: natasykes#4732 
 ___
 
-####*About Me* : Per aspera ad astra
+#### *About Me* : Per aspera ad astra
+
 ___
 
-####My skills:
+#### My skills:
 * HTML
 * CSS
 * Basic JS
